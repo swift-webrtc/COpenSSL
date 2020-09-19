@@ -1,1 +1,1 @@
-# COpenSSL
+Swift C module for OpenSSL
